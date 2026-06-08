@@ -1,2 +1,17 @@
 # mirror-framework
-A test scenario generation framework using domain-driven boolean logic - inspired by network routing algorithms
+
+テストシナリオをドメインとリレーションのパターンで有限的に算出する
+テスト設計フレームワークです。
+
+光ファイバーネットワーク経路設計のアルゴリズムをE2Eテストの
+画面遷移設計に転用した、異領域接続から生まれた設計思想です。
+
+## ドキュメント一覧
+
+- [思想と理論および役割分担](docs/01_theory.md)
+- [入力値パターンカタログ](docs/02_input-patterns.md)  
+- [E2E画面遷移拡張](docs/03_e2e-transition.md)
+
+## License
+
+CC BY-SA 4.0
