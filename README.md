@@ -12,6 +12,11 @@
 - [入力値パターンカタログ](docs/02_input-patterns.md)  
 - [E2E画面遷移拡張](docs/03_e2e-transition.md)
 
+## 関連リポジトリ
+
+- [playwright-framework-guide](https://github.com/earthHa11Queen/playwright-framework-guide) 
+  - Playwright E2Eテスト設計思想ドキュメント。
+
 ## License
 
 CC BY-SA 4.0
