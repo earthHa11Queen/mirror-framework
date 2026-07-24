@@ -76,18 +76,3 @@ When citing, adapting, or redistributing, please credit the original author
 and apply the same license.
 
 ---
-
----
-
-# mirror-framework（日本語）
-
-テストシナリオをドメインとリレーションのパターンで有限的に算出する、テスト設計フレームワークです。
-
-ネットワークルーティングアルゴリズムの経路計算から着想しており、
-「テストシナリオはSQLで算出できる」という思想を中核に置いています。
-
----
-
-## このリポジトリについて
-
-テストシナリオの生成は、経験や勘に依存しがちな作業です。
